@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.jianghoy.myapp",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "rateMyTutor",
+        "packageName": "com.jianghoy.myapp",
+        "packageFolder": "com/jianghoy/myapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MGQ0MThlMjc4Y2RjODNlOWIyMDE3N2VmZDg0ZmVkNjI4YTFmY2FkNGJlNWQ3NTQ0N2QyZTYxMmQwZDNmNDZiMDU5MmZhYzQ5OTkwNDEyNjAyYjY2ZGQxYTBmYTlhYWE2MDkxMDc2MDY2ZWUzZDdhMGJjMTI5YmRiMTdiY2FkMjY=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "zh-cn"]
+    }
+}
